@@ -1,0 +1,4 @@
+.btn-primary {
+    background: pink;
+    border-color: lightcoral;
+}
